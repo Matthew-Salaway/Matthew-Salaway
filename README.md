@@ -21,8 +21,8 @@
 
 <p align="center">
 I used to teach Python lessons and projects at my high school but I currently program in Javascript much more!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Salaway&layout=compact)](https://github.com/Matthew-Salaway/github-readme-stats)
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Salaway&layout=compact)](https://github.com/Matthew-Salaway/github-readme-stats)  
 
 </details>
 
