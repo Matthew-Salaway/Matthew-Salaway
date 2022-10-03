@@ -9,7 +9,7 @@
 
 💻 My latest project is an analytics website for the Reidar DAO. I develop the frontend in React and the backend in Firebase. Check out the [website](https://reidarchart.web.app/) and [GitHub Repo](https://github.com/Matthew-Salaway/Reidar_Analytics)!
 
-🧘 I also work for USC Viterbi Well, an organization dedicated to promoting wellness in the Engineering community! See more about my role on [LinkedIn](https://www.linkedin.com/in/msalaway/)!
+🧘 I also work for USC Viterbi Well, an organization dedicated to promoting wellness in the engineering community! See more about my role on [LinkedIn](https://www.linkedin.com/in/msalaway/)!
 
 <details>
   <summary>My Stack!</summary>
