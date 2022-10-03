@@ -20,9 +20,7 @@
 * 🍁   Other: C++, R, Hardhat, Blockchain
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-salaway&layout=compact&theme=dark&hide_border=true)
-<p align="center">
-I used to teach Python lessons and projects at my high school but I currently program more in Javascript!
-</p>
+> I used to teach Python lessons and projects at my high school but I currently program more in Javascript!
 </details>
 
 
