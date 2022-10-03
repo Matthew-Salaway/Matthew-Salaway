@@ -1,9 +1,13 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Matthew 😄</h3>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/msalaway/">LinkedIn</a>
+</p>
 
 
 ### Hi there 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-salaway&layout=compact&theme=dark&hide_border=true)
 
 <!--
 **Matthew-Salaway/Matthew-Salaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
