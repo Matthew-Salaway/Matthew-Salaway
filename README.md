@@ -4,8 +4,14 @@
   <a href="https://www.linkedin.com/in/msalaway/">LinkedIn</a>
 </p>
 
+---
+✌️ I am a current student at USC, studying Computer Science and Business Administration. I love to create!
 
-### Hi there 👋
+💻 My latest project is an analytics website for the Reidar DAO. I develop the frontend in React and the backend in Firebase. Check out the [website](https://reidarchart.web.app/) and [GitHub Repo](https://github.com/Matthew-Salaway/Reidar_Analytics)!
+
+🧘 I also work for USC Viterbi Well, an organization dedicated to promoting wellness in the Engineering community! See more about my role on [LinkedIn](https://www.linkedin.com/in/msalaway/)!
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-salaway&layout=compact&theme=dark&hide_border=true)
 
