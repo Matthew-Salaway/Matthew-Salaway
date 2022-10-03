@@ -11,9 +11,21 @@
 
 🧘 I also work for USC Viterbi Well, an organization dedicated to promoting wellness in the Engineering community! See more about my role on [LinkedIn](https://www.linkedin.com/in/msalaway/)!
 
+<details>
+  <summary>My Stack!</summary>
+  <br>
 
+* ☀️   Front-end: Javascript, React, CSS/HTML
+* 🌴   Back-end: Firebase, APIs, Solidity, SQL, Node.js, Cloud Infrastructure, Python, Web Scraping
+* 🍁   Other: C++, R, Hardhat, Blockchain
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-salaway&layout=compact&theme=dark&hide_border=true)
+I used to teach Python lessons and projects at my high school
+I currently program in Javascript much more!
+</p>
+
+</details>
 
 <!--
 **Matthew-Salaway/Matthew-Salaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
