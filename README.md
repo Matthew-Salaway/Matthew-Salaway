@@ -18,13 +18,15 @@
 * ☀️   Front-end: Javascript, React, CSS/HTML
 * 🌴   Back-end: Firebase, APIs, Solidity, SQL, Node.js, Cloud Infrastructure, Python, Web Scraping
 * 🍁   Other: C++, R, Hardhat, Blockchain
+</details>
 
 <p align="center">
-I used to teach Python lessons and projects at my high school but I currently program in Javascript much more!
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Salaway&layout=compact)](https://github.com/Matthew-Salaway/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-salaway&layout=compact&theme=dark&hide_border=true)
 
-</details>
+I used to teach Python lessons and projects at my high school but I currently program more in Javascript!
+</p>
+
+
 
 <!--
 **Matthew-Salaway/Matthew-Salaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
