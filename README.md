@@ -7,7 +7,7 @@
 ---
 ✌️ I am a current student at USC, studying Computer Science and Business Administration. I love to create!
 
-💻 My latest project is an analytics website for the Reidar DAO. I develop the frontend in React and the backend in Firebase. Check out the [website](https://reidarchart.web.app/) and [GitHub Repo](https://github.com/Matthew-Salaway/Reidar_Analytics)!
+💻 I am part of Boeing's Accelerated Leadership Program, currently working on full-stack software engineering.
 
 🧘 I also work for USC Viterbi Well, an organization dedicated to promoting wellness in the engineering community! See more about my role on [LinkedIn](https://www.linkedin.com/in/msalaway/)!
 
@@ -15,9 +15,9 @@
   <summary>My Stack!</summary>
   <br>
 
-* ☀️   Front-end: Javascript, React, CSS/HTML
-* 🌴   Back-end: Firebase, APIs, Solidity, SQL, Node.js, Cloud Infrastructure, Python, Web Scraping
-* 🍁   Other: C++, R, Hardhat, Blockchain
+* ☀️    Front-end: Javascript + TS, Next.JS, React, CSS/HTML
+* 🌴   Back-end: APIs, Solidity, SQL, Node.js, Cloud Infrastructure, Firebase, Python, Web Scraping
+* 🍁   Other: C++, R, Pytorch, Hardhat, Blockchain
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-salaway&layout=compact&theme=dark&hide_border=true)
 > I used to teach Python lessons and projects at my high school but I currently program more in Javascript!
