@@ -6,5 +6,5 @@
 
 ---
 🧠 **Current Research Interests:** Machine learning for neuroscience, vision-language models, and reliability in AI systems  
-🎨 **Side Projects I Enjoy:** Computer graphics, generative art, and real-time interactive media
+🎨 **Side Projects I Enjoy:** Computer graphics and real-time interactive media
 
